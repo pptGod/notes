@@ -1,3 +1,17 @@
+### ramification
+
+n.结果,影响
+
+* 原句:Mr Trudeau’s allegation of a fellow democracy assassinating a Canadian citizen on Canadian soil has ramifications beyond a souring of relations with India.
+
+* The decision to implement the new company policy had far-reaching ramifications, affecting not only our employees but also our overall business strategy.
+
+* The allegation of fraud had significant legal ramifications for the company, leading to a series of investigations and potential financial penalties.
+
+  penalty处罚,刑罚
+
+
+
 ### allegation
 
 n.指控(无证据的)

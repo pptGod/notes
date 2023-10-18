@@ -471,4 +471,4 @@ adj.有主权的
 
   autonomy自治	external外部的	interference干涉,干预,干扰(interfere)	domestic affair国内事务;家务
 
-* 
+  
